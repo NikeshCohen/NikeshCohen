@@ -10,10 +10,8 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **real-time language translation chat application**
+ 🔭 I’m currently working on building out tools for content creators
  
- 🌱 I’m currently learning **NextJS & Supabase**
-
  </div>
  
 <div align="center"> 
