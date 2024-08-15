@@ -12,6 +12,8 @@
  
  🔭 I’m currently working on building out tools for content creators
  
+ 🌱 I’m currently learning **Golang**
+ 
  </div>
  
 <div align="center"> 
