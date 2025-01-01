@@ -23,7 +23,7 @@
   <a href="https://www.linkedin.com/in/nikesh-cohen/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://nikeshcohen.netlify.app/" target="_blank">
+  <a href="https://nikeshcohen.dev/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
 </div>
@@ -31,14 +31,12 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <div>
-        <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,scss,tailwind" />
-        <img src="https://skillicons.dev/icons?i=vscode,git,github" />
-    </div>
-    <div>
-        <img src="https://skillicons.dev/icons?i=nodejs,express,javascript,typescript,python" />
-        <img src="https://skillicons.dev/icons?i=supabase,mongodb,mysql" />
-    </div>
+<div>
+    <img src="https://skillicons.dev/icons?i=aws,cloudflare,express,git,github,go,js,linux,mongodb,mysql" />
+</div>
+<div>
+    <img src="https://skillicons.dev/icons?i=nextjs,nodejs,python,react,redux,remix,scss,supabase,tailwind,typescript,vercel" />
+</div>
 </div>
 
 <hr/>
@@ -51,5 +49,4 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=nikeshcohen&hide=blade,HTML,scss,css&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
 <hr/>
