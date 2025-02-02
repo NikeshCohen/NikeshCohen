@@ -12,8 +12,6 @@
  
  🔭 I’m currently working on building out an AI powered learning application
  
- 🌱 I’m currently learning **Golang** & **AWS**
- 
  </div>
  
 <div align="center"> 
