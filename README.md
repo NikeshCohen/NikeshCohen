@@ -1,7 +1,7 @@
 <div>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=NikeshCohen.Nikeshcohen" />
 <br>
-<img align="right" href="https://codetime.dev" alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=plastic&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D31879">
+<img align="right" href="https://codetime.dev" alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=plastic&color=&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D31879">
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nikesh+Cohen;" />
